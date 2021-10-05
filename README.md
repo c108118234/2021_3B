@@ -32,6 +32,17 @@
 - [x] done2
 
 
+Emphasis, aka italics, with asterisks or underscores.
+
+Strong emphasis, aka bold, with **asterisks** or **underscores**.
+
+Combined emphasis with **asterisks** and *underscores*.
+
+Strikethrough uses two tildes. ~~Scratch this~~.
+
+>金門縣
+>>金寧鄉
+
 ```python
 str = "This is a String"
 print(str)
