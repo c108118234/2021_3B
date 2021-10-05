@@ -31,6 +31,8 @@
 - [ ] unfinished
 - [x] done2
 
-python
+
+```python
 str = "This is a String"
 print(str)
+```
